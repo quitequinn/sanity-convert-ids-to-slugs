@@ -32,12 +32,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/quitequinn/sanity-convert-ids-to-slugs.git"
+    "url": "https://github.com/Liiift-Studio/sanity-convert-ids-to-slugs.git"
   },
   "bugs": {
-    "url": "https://github.com/quitequinn/sanity-convert-ids-to-slugs/issues"
+    "url": "https://github.com/Liiift-Studio/sanity-convert-ids-to-slugs/issues"
   },
-  "homepage": "https://github.com/quitequinn/sanity-convert-ids-to-slugs#readme",
+  "homepage": "https://github.com/Liiift-Studio/sanity-convert-ids-to-slugs#readme",
   "peerDependencies": {
     "react": "^18.0.0",
     "sanity": "^3.0.0"
